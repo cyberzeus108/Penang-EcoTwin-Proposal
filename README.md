@@ -73,6 +73,21 @@ The complete project proposal is available as a timestamped PDF:
 - [Penang EcoTwin Proposal (Timestamped)](./Penang_EcoTwin_Proposal.pdf)
 
 ---
+## Timestamped Proposal Document
+
+The **Penang EcoTwin Proposal** is a timestamped document, ensuring its authenticity and integrity. The timestamp verifies that the document has not been altered since its creation, providing a reliable reference for stakeholders.
+
+### Files:
+- [Penang EcoTwin Proposal (PDF)](./Penang_EcoTwin_Proposal.pdf): The main proposal document.
+- [Penang EcoTwin Proposal Timestamp (OTS)](./Penang_EcoTwin_Proposal.pdf.ots): The cryptographic proof of the timestamp.
+
+### How to Verify the Timestamp
+To verify the timestamp, you can use the [OpenTimestamps client](https://opentimestamps.org/). Follow these steps:
+1. Download both the `.pdf` and `.ots` files.
+2. Install the OpenTimestamps client.
+3. Run the following command:
+   ```bash
+   ots verify Penang_EcoTwin_Proposal.pdf.ots
 
 ## Getting Started
 
