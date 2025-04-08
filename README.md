@@ -22,11 +22,6 @@ The **Penang EcoTwin Proposal** is a timestamped document, ensuring its authenti
 You can download the timestamped proposal here:
 - [Penang EcoTwin Proposal (Timestamped)](./Penang_EcoTwin_Proposal.pdf)
 
-### Why Timestamping Matters
-- **Authenticity**: Confirms the document's origin and authorship.
-- **Integrity**: Ensures the document has not been tampered with.
-- **Trust**: Builds confidence among stakeholders by providing a verifiable record.
-
 ---
 
 ## Project Categories
